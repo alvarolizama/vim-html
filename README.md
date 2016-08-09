@@ -1,3 +1,3 @@
 # Vim HTML
 
-HTML Syntax support for django templates, jinja2 and similar templates.
+HTML Syntax support for Django, Jinja2 and similar templates.
